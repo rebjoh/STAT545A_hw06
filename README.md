@@ -1,10 +1,9 @@
-## STAT545A hw06: Analysis of the Global Terrorism Database
-
+STAT545A hw06: Analysis of the Global Terrorism Database
+---
 _Rebecca Johnston_
 
-_21/10/2013_
 
-### Report:
+### Visual report:
 A visual report of my assignment (without code) is available via [RPubs](http://rpubs.com/rljohn/stat545a-2013-hw06_johnston-reb).
 
 ### Summary:
@@ -26,6 +25,13 @@ For this assignment, I explored the [Global Terrorism Database](http://www.start
   + GTD_cleaned.txt
   + point_nkills_perIncident_perYear.pdf
   + point_nkills_perIncident_perYear_facetByRegion.pdf
+  + point_nwound_perIncident_perYear_facetByRegion.pdf
+  + GTD_totalnkillnwound_perYear_byRegion.txt
+  + line_totalnkill_totalnwound_perYear_facetByRegion.pdf
+  + histogram_totalnkill_perYear.pdf
+  + histogram_totalnkill_byAttackType.pdf
+  + histogram_maxnkill_perRegion.pdf
+  + GTD_maxnkill_byRegion.txt
   + point_nwound_perIncident_perYear_facetByRegion.pdf
   + GTD_totalnkillnwound_perYear_byRegion.txt
   + line_totalnkill_totalnwound_perYear_facetByRegion.pdf
