@@ -1,0 +1,14 @@
+region_txt	maxKill
+Oceania	17
+Central Asia	23
+Southeast Asia	116
+Eastern Europe	180
+East Asia	184
+Western Europe	270
+South America	275
+Central America	300
+Russia	344
+MENA	422
+South Asia	518
+Sub-Saharan Africa	1180
+North America	1381.5

@@ -1,0 +1,959 @@
+Year	Region	Result	Number
+1970	Central America	Killed	5
+1970	East Asia	Killed	0
+1970	Eastern Europe	Killed	0
+1970	MENA	Killed	2
+1970	North America	Killed	32
+1970	Oceania	Killed	0
+1970	South America	Killed	11
+1970	South Asia	Killed	1
+1970	Southeast Asia	Killed	41
+1970	Sub-Saharan Africa	Killed	1
+1970	Western Europe	Killed	78
+1971	Central America	Killed	3
+1971	East Asia	Killed	25
+1971	Eastern Europe	Killed	0
+1971	MENA	Killed	7
+1971	North America	Killed	18
+1971	Oceania	Killed	0
+1971	South America	Killed	6
+1971	Southeast Asia	Killed	2
+1971	Sub-Saharan Africa	Killed	1
+1971	Western Europe	Killed	112
+1972	Central America	Killed	0
+1972	Eastern Europe	Killed	26
+1972	MENA	Killed	33
+1972	North America	Killed	11
+1972	Oceania	Killed	1
+1972	South America	Killed	6
+1972	South Asia	Killed	0
+1972	Southeast Asia	Killed	84
+1972	Western Europe	Killed	405
+1973	Central America	Killed	0
+1973	East Asia	Killed	0
+1973	Eastern Europe	Killed	1
+1973	MENA	Killed	8
+1973	North America	Killed	46
+1973	Oceania	Killed	0
+1973	South America	Killed	16
+1973	South Asia	Killed	0
+1973	Southeast Asia	Killed	0
+1973	Sub-Saharan Africa	Killed	5
+1973	Western Europe	Killed	294
+1974	Central America	Killed	0
+1974	East Asia	Killed	1
+1974	Eastern Europe	Killed	1
+1974	MENA	Killed	81
+1974	North America	Killed	18
+1974	Oceania	Killed	0
+1974	South America	Killed	21
+1974	South Asia	Killed	0
+1974	Southeast Asia	Killed	5
+1974	Sub-Saharan Africa	Killed	4
+1974	Western Europe	Killed	411
+1975	Central America	Killed	38
+1975	East Asia	Killed	0
+1975	MENA	Killed	60
+1975	North America	Killed	54
+1975	South America	Killed	130
+1975	South Asia	Killed	6
+1975	Southeast Asia	Killed	1
+1975	Sub-Saharan Africa	Killed	29
+1975	Western Europe	Killed	299
+1976	Central America	Killed	84
+1976	East Asia	Killed	2
+1976	MENA	Killed	45
+1976	North America	Killed	30
+1976	South America	Killed	134
+1976	South Asia	Killed	1
+1976	Southeast Asia	Killed	47
+1976	Sub-Saharan Africa	Killed	5
+1976	Western Europe	Killed	324
+1977	Central America	Killed	36
+1977	East Asia	Killed	0
+1977	Eastern Europe	Killed	1
+1977	MENA	Killed	43
+1977	North America	Killed	15
+1977	South America	Killed	47
+1977	South Asia	Killed	0
+1977	Southeast Asia	Killed	102
+1977	Sub-Saharan Africa	Killed	17
+1977	Western Europe	Killed	193
+1978	Central America	Killed	168
+1978	East Asia	Killed	4
+1978	Eastern Europe	Killed	0
+1978	MENA	Killed	687
+1978	North America	Killed	12
+1978	Oceania	Killed	2
+1978	Russia	Killed	4
+1978	South America	Killed	93
+1978	South Asia	Killed	5
+1978	Southeast Asia	Killed	158
+1978	Sub-Saharan Africa	Killed	112
+1978	Western Europe	Killed	210
+1979	Central America	Killed	540
+1979	East Asia	Killed	5
+1979	Eastern Europe	Killed	0
+1979	MENA	Killed	368
+1979	North America	Killed	20
+1979	Oceania	Killed	0
+1979	South America	Killed	183
+1979	South Asia	Killed	92
+1979	Southeast Asia	Killed	260
+1979	Sub-Saharan Africa	Killed	334
+1979	Western Europe	Killed	299
+1980	Central America	Killed	2976
+1980	East Asia	Killed	0
+1980	Eastern Europe	Killed	0
+1980	MENA	Killed	445
+1980	North America	Killed	18
+1980	Oceania	Killed	2
+1980	South America	Killed	206
+1980	South Asia	Killed	40
+1980	Southeast Asia	Killed	244
+1980	Sub-Saharan Africa	Killed	82
+1980	Western Europe	Killed	415
+1981	Central America	Killed	3152
+1981	East Asia	Killed	0
+1981	Eastern Europe	Killed	0
+1981	MENA	Killed	772
+1981	North America	Killed	7
+1981	Oceania	Killed	1
+1981	South America	Killed	402
+1981	South Asia	Killed	37
+1981	Southeast Asia	Killed	201
+1981	Sub-Saharan Africa	Killed	102
+1981	Western Europe	Killed	177
+1982	Central America	Killed	3401
+1982	East Asia	Killed	2
+1982	Eastern Europe	Killed	2
+1982	MENA	Killed	600
+1982	North America	Killed	9
+1982	Oceania	Killed	0
+1982	South America	Killed	672
+1982	South Asia	Killed	74
+1982	Southeast Asia	Killed	143
+1982	Sub-Saharan Africa	Killed	68
+1982	Western Europe	Killed	178
+1983	Central America	Killed	5555
+1983	East Asia	Killed	3
+1983	Eastern Europe	Killed	2
+1983	MENA	Killed	748
+1983	North America	Killed	7
+1983	South America	Killed	2279
+1983	South Asia	Killed	75
+1983	Southeast Asia	Killed	122
+1983	Sub-Saharan Africa	Killed	482
+1983	Western Europe	Killed	162
+1984	Central America	Killed	5112
+1984	East Asia	Killed	0
+1984	Eastern Europe	Killed	3
+1984	MENA	Killed	155
+1984	North America	Killed	16
+1984	Oceania	Killed	11
+1984	South America	Killed	2995
+1984	South Asia	Killed	693
+1984	Southeast Asia	Killed	264
+1984	Sub-Saharan Africa	Killed	1031
+1984	Western Europe	Killed	169
+1985	Central America	Killed	2734
+1985	East Asia	Killed	2
+1985	Eastern Europe	Killed	2
+1985	MENA	Killed	714
+1985	North America	Killed	334
+1985	Oceania	Killed	0
+1985	South America	Killed	1700
+1985	South Asia	Killed	668
+1985	Southeast Asia	Killed	459
+1985	Sub-Saharan Africa	Killed	211
+1985	Western Europe	Killed	261
+1986	Central America	Killed	756
+1986	East Asia	Killed	8
+1986	Eastern Europe	Killed	1
+1986	MENA	Killed	438
+1986	North America	Killed	1
+1986	Oceania	Killed	2
+1986	South America	Killed	1351
+1986	South Asia	Killed	1172
+1986	Southeast Asia	Killed	342
+1986	Sub-Saharan Africa	Killed	799
+1986	Western Europe	Killed	164
+1987	Central America	Killed	1214
+1987	East Asia	Killed	1
+1987	Eastern Europe	Killed	0
+1987	MENA	Killed	584
+1987	North America	Killed	1
+1987	Oceania	Killed	6
+1987	South America	Killed	1450
+1987	South Asia	Killed	1989
+1987	Southeast Asia	Killed	404
+1987	Sub-Saharan Africa	Killed	648
+1987	Western Europe	Killed	189
+1988	Central America	Killed	740
+1988	East Asia	Killed	0
+1988	Eastern Europe	Killed	0
+1988	MENA	Killed	369
+1988	North America	Killed	2
+1988	Oceania	Killed	22
+1988	South America	Killed	2024
+1988	South Asia	Killed	2195
+1988	Southeast Asia	Killed	662
+1988	Sub-Saharan Africa	Killed	744
+1988	Western Europe	Killed	434
+1989	Central America	Killed	452
+1989	East Asia	Killed	22
+1989	Eastern Europe	Killed	0
+1989	MENA	Killed	465
+1989	North America	Killed	3
+1989	Oceania	Killed	15
+1989	Russia	Killed	6
+1989	South America	Killed	2339
+1989	South Asia	Killed	2893
+1989	Southeast Asia	Killed	606
+1989	Sub-Saharan Africa	Killed	1202
+1989	Western Europe	Killed	118
+1990	Central America	Killed	406
+1990	East Asia	Killed	4
+1990	Eastern Europe	Killed	1
+1990	MENA	Killed	778
+1990	North America	Killed	8
+1990	Oceania	Killed	12
+1990	Russia	Killed	58
+1990	South America	Killed	1861
+1990	South Asia	Killed	2678
+1990	Southeast Asia	Killed	562
+1990	Sub-Saharan Africa	Killed	660
+1990	Western Europe	Killed	121
+1991	Central America	Killed	714
+1991	East Asia	Killed	8
+1991	Eastern Europe	Killed	245
+1991	MENA	Killed	544
+1991	North America	Killed	15
+1991	Oceania	Killed	11
+1991	Russia	Killed	56
+1991	South America	Killed	2238
+1991	South Asia	Killed	2515
+1991	Southeast Asia	Killed	573
+1991	Sub-Saharan Africa	Killed	1347
+1991	Western Europe	Killed	170
+1992	Central America	Killed	112
+1992	Central Asia	Killed	23
+1992	East Asia	Killed	27
+1992	Eastern Europe	Killed	75
+1992	MENA	Killed	1884
+1992	North America	Killed	8
+1992	Oceania	Killed	10
+1992	Russia	Killed	332
+1992	South America	Killed	1535
+1992	South Asia	Killed	2447
+1992	Southeast Asia	Killed	673
+1992	Sub-Saharan Africa	Killed	2444
+1992	Western Europe	Killed	181
+1994	Central America	Killed	184
+1994	Central Asia	Killed	48
+1994	East Asia	Killed	34
+1994	Eastern Europe	Killed	10
+1994	MENA	Killed	2067
+1994	North America	Killed	97
+1994	Oceania	Killed	20
+1994	Russia	Killed	113
+1994	South America	Killed	406
+1994	South Asia	Killed	985
+1994	Southeast Asia	Killed	390
+1994	Sub-Saharan Africa	Killed	3633
+1994	Western Europe	Killed	103
+1995	Central America	Killed	81
+1995	Central Asia	Killed	78
+1995	East Asia	Killed	16
+1995	Eastern Europe	Killed	13
+1995	MENA	Killed	1019
+1995	North America	Killed	233
+1995	Oceania	Killed	6
+1995	Russia	Killed	161
+1995	South America	Killed	654
+1995	South Asia	Killed	2133
+1995	Southeast Asia	Killed	312
+1995	Sub-Saharan Africa	Killed	1320
+1995	Western Europe	Killed	68
+1996	Central America	Killed	90
+1996	Central Asia	Killed	50
+1996	East Asia	Killed	32
+1996	Eastern Europe	Killed	30
+1996	MENA	Killed	964
+1996	North America	Killed	99
+1996	Oceania	Killed	23
+1996	Russia	Killed	142
+1996	South America	Killed	725
+1996	South Asia	Killed	1933
+1996	Southeast Asia	Killed	270
+1996	Sub-Saharan Africa	Killed	2554
+1996	Western Europe	Killed	41
+1997	Central America	Killed	74
+1997	Central Asia	Killed	45
+1997	East Asia	Killed	58
+1997	Eastern Europe	Killed	50
+1997	MENA	Killed	4695
+1997	North America	Killed	231
+1997	Oceania	Killed	0
+1997	Russia	Killed	101
+1997	South America	Killed	1317
+1997	South Asia	Killed	1815
+1997	Southeast Asia	Killed	335
+1997	Sub-Saharan Africa	Killed	2188
+1997	Western Europe	Killed	46
+1998	Central America	Killed	0
+1998	Central Asia	Killed	29
+1998	East Asia	Killed	50
+1998	Eastern Europe	Killed	60
+1998	MENA	Killed	1072
+1998	North America	Killed	8
+1998	Oceania	Killed	0
+1998	Russia	Killed	81
+1998	South America	Killed	600
+1998	South Asia	Killed	1257
+1998	Southeast Asia	Killed	54
+1998	Sub-Saharan Africa	Killed	1579
+1998	Western Europe	Killed	53
+1999	Central America	Killed	6
+1999	Central Asia	Killed	22.000000002
+1999	East Asia	Killed	5
+1999	Eastern Europe	Killed	44
+1999	MENA	Killed	672
+1999	North America	Killed	20
+1999	Oceania	Killed	2
+1999	Russia	Killed	409
+1999	South America	Killed	293
+1999	South Asia	Killed	895
+1999	Southeast Asia	Killed	123
+1999	Sub-Saharan Africa	Killed	885
+1999	Western Europe	Killed	12
+2000	Central America	Killed	11
+2000	Central Asia	Killed	15
+2000	East Asia	Killed	1
+2000	Eastern Europe	Killed	39
+2000	MENA	Killed	624
+2000	North America	Killed	5
+2000	Oceania	Killed	7
+2000	Russia	Killed	358
+2000	South America	Killed	430
+2000	South Asia	Killed	1366
+2000	Southeast Asia	Killed	455
+2000	Sub-Saharan Africa	Killed	1011.999999999
+2000	Western Europe	Killed	41
+2001	Central America	Killed	2
+2001	Central Asia	Killed	8
+2001	East Asia	Killed	27
+2001	Eastern Europe	Killed	65
+2001	MENA	Killed	905
+2001	North America	Killed	3016
+2001	Oceania	Killed	0
+2001	Russia	Killed	228
+2001	South America	Killed	565
+2001	South Asia	Killed	1362
+2001	Southeast Asia	Killed	303.000000002
+2001	Sub-Saharan Africa	Killed	1068
+2001	Western Europe	Killed	38
+2002	Central America	Killed	0
+2002	Central Asia	Killed	2
+2002	East Asia	Killed	1
+2002	Eastern Europe	Killed	5
+2002	MENA	Killed	1172
+2002	North America	Killed	4
+2002	Oceania	Killed	1
+2002	Russia	Killed	473
+2002	South America	Killed	365
+2002	South Asia	Killed	1276
+2002	Southeast Asia	Killed	396.000000001
+2002	Sub-Saharan Africa	Killed	1040.999999978
+2002	Western Europe	Killed	10
+2003	Central America	Killed	5
+2003	Central Asia	Killed	1
+2003	East Asia	Killed	1
+2003	Eastern Europe	Killed	9
+2003	MENA	Killed	994.99999999
+2003	North America	Killed	2
+2003	Oceania	Killed	1
+2003	Russia	Killed	328
+2003	South America	Killed	191
+2003	South Asia	Killed	783
+2003	Southeast Asia	Killed	344
+2003	Sub-Saharan Africa	Killed	516
+2003	Western Europe	Killed	5
+2004	Central America	Killed	38
+2004	Central Asia	Killed	36
+2004	East Asia	Killed	4
+2004	Eastern Europe	Killed	1
+2004	MENA	Killed	2546
+2004	North America	Killed	0
+2004	Russia	Killed	607
+2004	South America	Killed	89
+2004	South Asia	Killed	1603
+2004	Southeast Asia	Killed	281
+2004	Sub-Saharan Africa	Killed	321
+2004	Western Europe	Killed	195
+2005	Central America	Killed	1
+2005	Central Asia	Killed	1
+2005	East Asia	Killed	13
+2005	Eastern Europe	Killed	1
+2005	MENA	Killed	3868.99999999
+2005	North America	Killed	2
+2005	Russia	Killed	164
+2005	South America	Killed	146
+2005	South Asia	Killed	1356.99999999
+2005	Southeast Asia	Killed	265.999999999
+2005	Sub-Saharan Africa	Killed	370.000000001
+2005	Western Europe	Killed	58
+2006	Central America	Killed	7
+2006	Central Asia	Killed	1
+2006	East Asia	Killed	1
+2006	Eastern Europe	Killed	2
+2006	MENA	Killed	4991.99999999
+2006	North America	Killed	9
+2006	Oceania	Killed	0
+2006	Russia	Killed	65
+2006	South America	Killed	112
+2006	South Asia	Killed	2904
+2006	Southeast Asia	Killed	260
+2006	Sub-Saharan Africa	Killed	951
+2006	Western Europe	Killed	4
+2007	Central America	Killed	2
+2007	Central Asia	Killed	1
+2007	Eastern Europe	Killed	2
+2007	MENA	Killed	7087
+2007	North America	Killed	25
+2007	Oceania	Killed	0
+2007	Russia	Killed	55
+2007	South America	Killed	82
+2007	South Asia	Killed	3703
+2007	Southeast Asia	Killed	390
+2007	Sub-Saharan Africa	Killed	1383
+2007	Western Europe	Killed	79
+2008	Central Asia	Killed	2
+2008	East Asia	Killed	23
+2008	Eastern Europe	Killed	6
+2008	MENA	Killed	3469
+2008	North America	Killed	23
+2008	Oceania	Killed	0
+2008	Russia	Killed	113
+2008	South America	Killed	109
+2008	South Asia	Killed	3444
+2008	Southeast Asia	Killed	400
+2008	Sub-Saharan Africa	Killed	1300
+2008	Western Europe	Killed	3
+2009	Central America	Killed	2
+2009	Central Asia	Killed	3
+2009	East Asia	Killed	186
+2009	Eastern Europe	Killed	2
+2009	MENA	Killed	2967
+2009	North America	Killed	20
+2009	Oceania	Killed	3
+2009	Russia	Killed	146
+2009	South America	Killed	136
+2009	South Asia	Killed	3550
+2009	Southeast Asia	Killed	482
+2009	Sub-Saharan Africa	Killed	1327
+2009	Western Europe	Killed	15
+2010	Central America	Killed	0
+2010	Central Asia	Killed	4
+2010	East Asia	Killed	7
+2010	Eastern Europe	Killed	2
+2010	MENA	Killed	2651
+2010	North America	Killed	4
+2010	Oceania	Killed	0
+2010	Russia	Killed	234
+2010	South America	Killed	58
+2010	South Asia	Killed	3549
+2010	Southeast Asia	Killed	322
+2010	Sub-Saharan Africa	Killed	830
+2010	Western Europe	Killed	5
+2011	Central America	Killed	2
+2011	Central Asia	Killed	12
+2011	East Asia	Killed	19
+2011	Eastern Europe	Killed	0
+2011	MENA	Killed	2649.999999999
+2011	North America	Killed	1
+2011	Russia	Killed	174
+2011	South America	Killed	43
+2011	South Asia	Killed	3679
+2011	Southeast Asia	Killed	298
+2011	Sub-Saharan Africa	Killed	1197.999999999
+2011	Western Europe	Killed	78
+1970	Central America	Wounded	1
+1970	East Asia	Wounded	0
+1970	Eastern Europe	Wounded	0
+1970	MENA	Wounded	5
+1970	North America	Wounded	158
+1970	Oceania	Wounded	0
+1970	South America	Wounded	4
+1970	South Asia	Wounded	0
+1970	Southeast Asia	Wounded	13
+1970	Sub-Saharan Africa	Wounded	0
+1970	Western Europe	Wounded	10
+1971	Central America	Wounded	0
+1971	East Asia	Wounded	0
+1971	Eastern Europe	Wounded	0
+1971	MENA	Wounded	11
+1971	North America	Wounded	55
+1971	Oceania	Wounded	0
+1971	South America	Wounded	0
+1971	Southeast Asia	Wounded	10
+1971	Sub-Saharan Africa	Wounded	0
+1971	Western Europe	Wounded	6
+1972	Central America	Wounded	0
+1972	Eastern Europe	Wounded	0
+1972	MENA	Wounded	83
+1972	North America	Wounded	42
+1972	Oceania	Wounded	0
+1972	South America	Wounded	1
+1972	South Asia	Wounded	0
+1972	Southeast Asia	Wounded	1
+1972	Western Europe	Wounded	95
+1973	Central America	Wounded	0
+1973	East Asia	Wounded	0
+1973	Eastern Europe	Wounded	7
+1973	MENA	Wounded	19
+1973	North America	Wounded	33
+1973	Oceania	Wounded	0
+1973	South America	Wounded	19
+1973	South Asia	Wounded	1
+1973	Southeast Asia	Wounded	8
+1973	Sub-Saharan Africa	Wounded	2
+1973	Western Europe	Wounded	348
+1974	Central America	Wounded	7
+1974	East Asia	Wounded	7
+1974	Eastern Europe	Wounded	0
+1974	MENA	Wounded	168
+1974	North America	Wounded	50
+1974	Oceania	Wounded	0
+1974	South America	Wounded	29
+1974	South Asia	Wounded	2
+1974	Southeast Asia	Wounded	0
+1974	Sub-Saharan Africa	Wounded	1
+1974	Western Europe	Wounded	490
+1975	Central America	Wounded	13
+1975	East Asia	Wounded	2
+1975	MENA	Wounded	93
+1975	North America	Wounded	151
+1975	South America	Wounded	16
+1975	South Asia	Wounded	0
+1975	Southeast Asia	Wounded	45
+1975	Sub-Saharan Africa	Wounded	100
+1975	Western Europe	Wounded	195
+1976	Central America	Wounded	18
+1976	East Asia	Wounded	1
+1976	MENA	Wounded	388
+1976	North America	Wounded	46
+1976	South America	Wounded	106
+1976	South Asia	Wounded	3
+1976	Southeast Asia	Wounded	73
+1976	Sub-Saharan Africa	Wounded	0
+1976	Western Europe	Wounded	120
+1977	Central America	Wounded	13
+1977	East Asia	Wounded	0
+1977	Eastern Europe	Wounded	7
+1977	MENA	Wounded	115
+1977	North America	Wounded	31
+1977	South America	Wounded	42
+1977	South Asia	Wounded	1
+1977	Southeast Asia	Wounded	72
+1977	Sub-Saharan Africa	Wounded	36
+1977	Western Europe	Wounded	201
+1978	Central America	Wounded	143
+1978	East Asia	Wounded	53
+1978	Eastern Europe	Wounded	1
+1978	MENA	Wounded	642
+1978	North America	Wounded	25
+1978	Oceania	Wounded	9
+1978	Russia	Wounded	0
+1978	South America	Wounded	51
+1978	South Asia	Wounded	2
+1978	Southeast Asia	Wounded	219
+1978	Sub-Saharan Africa	Wounded	121
+1978	Western Europe	Wounded	333
+1979	Central America	Wounded	199
+1979	East Asia	Wounded	2
+1979	Eastern Europe	Wounded	5
+1979	MENA	Wounded	953
+1979	North America	Wounded	47
+1979	Oceania	Wounded	9
+1979	South America	Wounded	77
+1979	South Asia	Wounded	63
+1979	Southeast Asia	Wounded	300
+1979	Sub-Saharan Africa	Wounded	161
+1979	Western Europe	Wounded	685
+1980	Central America	Wounded	469
+1980	East Asia	Wounded	2
+1980	Eastern Europe	Wounded	2
+1980	MENA	Wounded	1019
+1980	North America	Wounded	20
+1980	Oceania	Wounded	3
+1980	South America	Wounded	123
+1980	South Asia	Wounded	111
+1980	Southeast Asia	Wounded	719
+1980	Sub-Saharan Africa	Wounded	294
+1980	Western Europe	Wounded	906
+1981	Central America	Wounded	706
+1981	East Asia	Wounded	25
+1981	Eastern Europe	Wounded	5
+1981	MENA	Wounded	1431
+1981	North America	Wounded	18
+1981	Oceania	Wounded	0
+1981	South America	Wounded	76
+1981	South Asia	Wounded	24
+1981	Southeast Asia	Wounded	424
+1981	Sub-Saharan Africa	Wounded	44
+1981	Western Europe	Wounded	584
+1982	Central America	Wounded	399
+1982	East Asia	Wounded	18
+1982	Eastern Europe	Wounded	0
+1982	MENA	Wounded	1753
+1982	North America	Wounded	24
+1982	Oceania	Wounded	3
+1982	South America	Wounded	186
+1982	South Asia	Wounded	115
+1982	Southeast Asia	Wounded	270
+1982	Sub-Saharan Africa	Wounded	130
+1982	Western Europe	Wounded	458
+1983	Central America	Wounded	1001
+1983	East Asia	Wounded	5
+1983	Eastern Europe	Wounded	4
+1983	MENA	Wounded	1116
+1983	North America	Wounded	7
+1983	South America	Wounded	10383
+1983	South Asia	Wounded	252
+1983	Southeast Asia	Wounded	80
+1983	Sub-Saharan Africa	Wounded	682
+1983	Western Europe	Wounded	480
+1984	Central America	Wounded	837
+1984	East Asia	Wounded	11
+1984	Eastern Europe	Wounded	2
+1984	MENA	Wounded	768
+1984	North America	Wounded	789
+1984	Oceania	Wounded	1
+1984	South America	Wounded	984
+1984	South Asia	Wounded	638
+1984	Southeast Asia	Wounded	128
+1984	Sub-Saharan Africa	Wounded	527
+1984	Western Europe	Wounded	606
+1985	Central America	Wounded	554
+1985	East Asia	Wounded	7
+1985	Eastern Europe	Wounded	0
+1985	MENA	Wounded	1624
+1985	North America	Wounded	14
+1985	Oceania	Wounded	11
+1985	South America	Wounded	652
+1985	South Asia	Wounded	408
+1985	Southeast Asia	Wounded	391
+1985	Sub-Saharan Africa	Wounded	424
+1985	Western Europe	Wounded	961
+1986	Central America	Wounded	312
+1986	East Asia	Wounded	31
+1986	Eastern Europe	Wounded	34
+1986	MENA	Wounded	1376
+1986	North America	Wounded	35
+1986	Oceania	Wounded	23
+1986	South America	Wounded	522
+1986	South Asia	Wounded	1672
+1986	Southeast Asia	Wounded	414
+1986	Sub-Saharan Africa	Wounded	502
+1986	Western Europe	Wounded	844
+1987	Central America	Wounded	671
+1987	East Asia	Wounded	3
+1987	Eastern Europe	Wounded	1
+1987	MENA	Wounded	534
+1987	North America	Wounded	1
+1987	Oceania	Wounded	1
+1987	South America	Wounded	718
+1987	South Asia	Wounded	2309
+1987	Southeast Asia	Wounded	485
+1987	Sub-Saharan Africa	Wounded	639
+1987	Western Europe	Wounded	457
+1988	Central America	Wounded	501
+1988	East Asia	Wounded	26
+1988	Eastern Europe	Wounded	0
+1988	MENA	Wounded	822
+1988	North America	Wounded	0
+1988	Oceania	Wounded	11
+1988	South America	Wounded	782
+1988	South Asia	Wounded	2552
+1988	Southeast Asia	Wounded	507
+1988	Sub-Saharan Africa	Wounded	1084
+1988	Western Europe	Wounded	575
+1989	Central America	Wounded	741
+1989	East Asia	Wounded	13
+1989	Eastern Europe	Wounded	0
+1989	MENA	Wounded	538
+1989	North America	Wounded	14
+1989	Oceania	Wounded	25
+1989	Russia	Wounded	27
+1989	South America	Wounded	895
+1989	South Asia	Wounded	2037
+1989	Southeast Asia	Wounded	479
+1989	Sub-Saharan Africa	Wounded	496
+1989	Western Europe	Wounded	233
+1990	Central America	Wounded	450
+1990	East Asia	Wounded	136
+1990	Eastern Europe	Wounded	21
+1990	MENA	Wounded	672
+1990	North America	Wounded	5
+1990	Oceania	Wounded	12
+1990	Russia	Wounded	101
+1990	South America	Wounded	1070
+1990	South Asia	Wounded	2138
+1990	Southeast Asia	Wounded	448
+1990	Sub-Saharan Africa	Wounded	783
+1990	Western Europe	Wounded	290
+1991	Central America	Wounded	1107
+1991	East Asia	Wounded	31
+1991	Eastern Europe	Wounded	48
+1991	MENA	Wounded	892
+1991	North America	Wounded	4
+1991	Oceania	Wounded	6
+1991	Russia	Wounded	36
+1991	South America	Wounded	896
+1991	South Asia	Wounded	2892
+1991	Southeast Asia	Wounded	429
+1991	Sub-Saharan Africa	Wounded	783
+1991	Western Europe	Wounded	473
+1992	Central America	Wounded	164
+1992	Central Asia	Wounded	806
+1992	East Asia	Wounded	50
+1992	Eastern Europe	Wounded	133
+1992	MENA	Wounded	1482
+1992	North America	Wounded	7
+1992	Oceania	Wounded	14
+1992	Russia	Wounded	142
+1992	South America	Wounded	1497
+1992	South Asia	Wounded	2481
+1992	Southeast Asia	Wounded	768
+1992	Sub-Saharan Africa	Wounded	1548
+1992	Western Europe	Wounded	838
+1994	Central America	Wounded	179
+1994	Central Asia	Wounded	63
+1994	East Asia	Wounded	612
+1994	Eastern Europe	Wounded	7
+1994	MENA	Wounded	1982
+1994	North America	Wounded	49
+1994	Oceania	Wounded	34
+1994	Russia	Wounded	234
+1994	South America	Wounded	495
+1994	South Asia	Wounded	1987
+1994	Southeast Asia	Wounded	378
+1994	Sub-Saharan Africa	Wounded	1189
+1994	Western Europe	Wounded	365
+1995	Central America	Wounded	104
+1995	Central Asia	Wounded	23
+1995	East Asia	Wounded	6326
+1995	Eastern Europe	Wounded	25
+1995	MENA	Wounded	2206
+1995	North America	Wounded	763
+1995	Oceania	Wounded	17
+1995	Russia	Wounded	79
+1995	South America	Wounded	572
+1995	South Asia	Wounded	2732
+1995	Southeast Asia	Wounded	310
+1995	Sub-Saharan Africa	Wounded	811
+1995	Western Europe	Wounded	321
+1996	Central America	Wounded	138
+1996	Central Asia	Wounded	34
+1996	East Asia	Wounded	161
+1996	Eastern Europe	Wounded	82
+1996	MENA	Wounded	2088
+1996	North America	Wounded	333
+1996	Oceania	Wounded	14
+1996	Russia	Wounded	148
+1996	South America	Wounded	582
+1996	South Asia	Wounded	5408
+1996	Southeast Asia	Wounded	511
+1996	Sub-Saharan Africa	Wounded	669
+1996	Western Europe	Wounded	586
+1997	Central America	Wounded	135
+1997	Central Asia	Wounded	44
+1997	East Asia	Wounded	273
+1997	Eastern Europe	Wounded	183
+1997	MENA	Wounded	2684
+1997	North America	Wounded	66
+1997	Oceania	Wounded	23
+1997	Russia	Wounded	111
+1997	South America	Wounded	756
+1997	South Asia	Wounded	2879
+1997	Southeast Asia	Wounded	690
+1997	Sub-Saharan Africa	Wounded	1390
+1997	Western Europe	Wounded	95
+1998	Central America	Wounded	1
+1998	Central Asia	Wounded	3
+1998	East Asia	Wounded	166
+1998	Eastern Europe	Wounded	46
+1998	MENA	Wounded	1291
+1998	North America	Wounded	7
+1998	Oceania	Wounded	2
+1998	Russia	Wounded	166
+1998	South America	Wounded	191
+1998	South Asia	Wounded	1491.999999996
+1998	Southeast Asia	Wounded	137
+1998	Sub-Saharan Africa	Wounded	4440
+1998	Western Europe	Wounded	283
+1999	Central America	Wounded	3
+1999	Central Asia	Wounded	140.99999998
+1999	East Asia	Wounded	50
+1999	Eastern Europe	Wounded	264
+1999	MENA	Wounded	877
+1999	North America	Wounded	44
+1999	Oceania	Wounded	0
+1999	Russia	Wounded	740
+1999	South America	Wounded	250
+1999	South Asia	Wounded	1656
+1999	Southeast Asia	Wounded	317
+1999	Sub-Saharan Africa	Wounded	789
+1999	Western Europe	Wounded	221
+2000	Central America	Wounded	28
+2000	Central Asia	Wounded	81
+2000	East Asia	Wounded	19
+2000	Eastern Europe	Wounded	108
+2000	MENA	Wounded	586
+2000	North America	Wounded	41
+2000	Oceania	Wounded	17
+2000	Russia	Wounded	591
+2000	South America	Wounded	188
+2000	South Asia	Wounded	2368
+2000	Southeast Asia	Wounded	1055
+2000	Sub-Saharan Africa	Wounded	616
+2000	Western Europe	Wounded	154
+2001	Central America	Wounded	3
+2001	Central Asia	Wounded	12
+2001	East Asia	Wounded	85
+2001	Eastern Europe	Wounded	101
+2001	MENA	Wounded	1330
+2001	North America	Wounded	27
+2001	Oceania	Wounded	0
+2001	Russia	Wounded	469
+2001	South America	Wounded	446
+2001	South Asia	Wounded	2271
+2001	Southeast Asia	Wounded	540
+2001	Sub-Saharan Africa	Wounded	642
+2001	Western Europe	Wounded	495
+2002	Central America	Wounded	1
+2002	Central Asia	Wounded	2
+2002	East Asia	Wounded	18
+2002	Eastern Europe	Wounded	36
+2002	MENA	Wounded	2109
+2002	North America	Wounded	4
+2002	Oceania	Wounded	0
+2002	Russia	Wounded	444
+2002	South America	Wounded	689
+2002	South Asia	Wounded	2392
+2002	Southeast Asia	Wounded	956
+2002	Sub-Saharan Africa	Wounded	338
+2002	Western Europe	Wounded	94
+2003	Central America	Wounded	6
+2003	Central Asia	Wounded	0
+2003	East Asia	Wounded	76
+2003	Eastern Europe	Wounded	9
+2003	MENA	Wounded	2219.00000001
+2003	North America	Wounded	1
+2003	Oceania	Wounded	0
+2003	Russia	Wounded	814
+2003	South America	Wounded	575
+2003	South Asia	Wounded	1587
+2003	Southeast Asia	Wounded	757
+2003	Sub-Saharan Africa	Wounded	151
+2003	Western Europe	Wounded	130
+2004	Central America	Wounded	44
+2004	Central Asia	Wounded	31
+2004	East Asia	Wounded	7
+2004	Eastern Europe	Wounded	5
+2004	MENA	Wounded	5103
+2004	North America	Wounded	3
+2004	Russia	Wounded	1177
+2004	South America	Wounded	218
+2004	South Asia	Wounded	2560
+2004	Southeast Asia	Wounded	551
+2004	Sub-Saharan Africa	Wounded	161
+2004	Western Europe	Wounded	1831
+2005	Central America	Wounded	14
+2005	Central Asia	Wounded	0
+2005	East Asia	Wounded	34
+2005	Eastern Europe	Wounded	2
+2005	MENA	Wounded	7126.99999998
+2005	North America	Wounded	0
+2005	Russia	Wounded	382
+2005	South America	Wounded	106
+2005	South Asia	Wounded	2891
+2005	Southeast Asia	Wounded	846
+2005	Sub-Saharan Africa	Wounded	338.99999999
+2005	Western Europe	Wounded	941
+2006	Central America	Wounded	1
+2006	Central Asia	Wounded	2
+2006	East Asia	Wounded	2
+2006	Eastern Europe	Wounded	15
+2006	MENA	Wounded	9089
+2006	North America	Wounded	48
+2006	Oceania	Wounded	0
+2006	Russia	Wounded	68
+2006	South America	Wounded	106
+2006	South Asia	Wounded	5098
+2006	Southeast Asia	Wounded	582
+2006	Sub-Saharan Africa	Wounded	360
+2006	Western Europe	Wounded	31
+2007	Central America	Wounded	2
+2007	Central Asia	Wounded	1
+2007	Eastern Europe	Wounded	3
+2007	MENA	Wounded	13331
+2007	North America	Wounded	6
+2007	Oceania	Wounded	0
+2007	Russia	Wounded	141
+2007	South America	Wounded	163
+2007	South Asia	Wounded	5390
+2007	Southeast Asia	Wounded	1045
+2007	Sub-Saharan Africa	Wounded	1066
+2007	Western Europe	Wounded	81
+2008	Central Asia	Wounded	2
+2008	East Asia	Wounded	180
+2008	Eastern Europe	Wounded	47
+2008	MENA	Wounded	8528
+2008	North America	Wounded	126
+2008	Oceania	Wounded	0
+2008	Russia	Wounded	360
+2008	South America	Wounded	253
+2008	South Asia	Wounded	6209
+2008	Southeast Asia	Wounded	1060
+2008	Sub-Saharan Africa	Wounded	899
+2008	Western Europe	Wounded	76
+2009	Central America	Wounded	1
+2009	Central Asia	Wounded	7
+2009	East Asia	Wounded	56
+2009	Eastern Europe	Wounded	49
+2009	MENA	Wounded	9851
+2009	North America	Wounded	45
+2009	Oceania	Wounded	50
+2009	Russia	Wounded	249
+2009	South America	Wounded	244
+2009	South Asia	Wounded	6696
+2009	Southeast Asia	Wounded	892
+2009	Sub-Saharan Africa	Wounded	901
+2009	Western Europe	Wounded	104
+2010	Central America	Wounded	0
+2010	Central Asia	Wounded	29
+2010	East Asia	Wounded	14
+2010	Eastern Europe	Wounded	21
+2010	MENA	Wounded	7700
+2010	North America	Wounded	17
+2010	Oceania	Wounded	0
+2010	Russia	Wounded	621
+2010	South America	Wounded	149
+2010	South Asia	Wounded	5273
+2010	Southeast Asia	Wounded	634
+2010	Sub-Saharan Africa	Wounded	1142
+2010	Western Europe	Wounded	41
+2011	Central America	Wounded	0
+2011	Central Asia	Wounded	2
+2011	East Asia	Wounded	32
+2011	Eastern Europe	Wounded	1
+2011	MENA	Wounded	6064.999999999
+2011	North America	Wounded	3
+2011	Russia	Wounded	595
+2011	South America	Wounded	90
+2011	South Asia	Wounded	5396
+2011	Southeast Asia	Wounded	729
+2011	Sub-Saharan Africa	Wounded	1485.000000003
+2011	Western Europe	Wounded	93
