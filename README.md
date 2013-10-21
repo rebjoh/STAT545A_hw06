@@ -1,5 +1,5 @@
-STAT545A hw06: Analysis of the Global Terrorism Database
----
+## STAT545A hw06: Analysis of the Global Terrorism Database
+
 _Rebecca Johnston_
 
 _21/10/2013_
